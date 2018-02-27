@@ -1,1 +1,1 @@
-# matploitlib-test-generator
+# matplotlib-test-generator
